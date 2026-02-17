@@ -1,0 +1,6 @@
+org\itson\nebulamusicwebapplication\resources\JakartaEE10Resource.class
+org\itson\nebulamusicwebapplication\JakartaRestConfiguration.class
+servlets\RegistroServlet.class
+models\Usuario.class
+repositories\UsuarioDB.class
+servlets\AutenticacionServlet.class
